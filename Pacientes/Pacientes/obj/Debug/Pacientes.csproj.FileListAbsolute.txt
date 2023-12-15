@@ -1,0 +1,18 @@
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.csprojAssemblyReference.cache
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmSexos.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.GenerateResource.cache
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.csproj.CoreCompileInputs.cache
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoSexo.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\bin\Debug\Pacientes.exe.config
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\bin\Debug\Pacientes.exe
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\bin\Debug\Pacientes.pdb
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarSexo.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.exe
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.pdb
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmPrincipal.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmPacientes.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmModificarPaciente.resources
+D:\Dropbox\Tecnicatura\Programación III\2022\Pacientes\Pacientes\obj\Debug\Pacientes.frmNuevoPaciente.resources
+C:\Users\tobia\OneDrive\Escritorio\adasdsa\Pacientes\Pacientes\obj\Debug\Pacientes.exe
+C:\Users\tobia\OneDrive\Escritorio\adasdsa\Pacientes\Pacientes\obj\Debug\Pacientes.pdb
